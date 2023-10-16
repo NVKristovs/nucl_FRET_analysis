@@ -8,6 +8,8 @@ In this task, we use the experimental FRET efficiency values for a system consis
 <img src="https://github.com/NVKristovs/nucl_FRET_analysis/blob/main/images/Syntol_Lumiprobe_Cy3.jpg" width="600" height="800" style="max-width: 100%;">
 
 The fluorophore [Су5](https://github.com/NVKristovs/nucl_FRET_analysis) was introduced into the histone H1 sequence at positions 101 and 195 amino acids, with a spacer length of 11 Å.
+<img src="https://github.com/NVKristovs/nucl_FRET_analysis/blob/main/images/Cy5_Cys.png" width="568" height="370" style="max-width: 100%;">
+
 Reaction with [Maleimide](https://ru.lumiprobe.com/protocols/protein-maleimide-labeling) was used to label the protein.
 
 The library [LabelLib](https://github.com/Fluorescence-Tools/LabelLib) was used to determine the available amount of Cy3 and the limitations of the localization region of Cy5 introduced into the protein sequence of 101 and 195 n.b. hrs. This library creates a three-dimensional matrix describing the label localization region based on the specified parameters.
