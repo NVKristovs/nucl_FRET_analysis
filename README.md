@@ -5,7 +5,8 @@ In this task, we use the experimental FRET efficiency values for a system consis
 
  - [Syntol©](https://github.com/NVKristovs/nucl_FRET_analysis/blob/main/images/Syntol_Lumiprobe_Cy3.jpg) linkers at positions 15, 20 had a spacer length of 16 Å. 
  - [Lumiprobe©](https://github.com/NVKristovs/nucl_FRET_analysis/blob/main/images/Syntol_Lumiprobe_Cy3.jpg) linkers at positions 10, 25, 30, 35 had a spacer length of 24 Å. 
-<img src=" https://github.com/NVKristovs/nucl_FRET_analysis/blob/main/images/Syntol_Lumiprobe_Cy3.jpg" width="600" height="800" style="max-width: 100%;">
+<img src="https://github.com/NVKristovs/nucl_FRET_analysis/blob/main/images/Syntol_Lumiprobe_Cy3.jpg" width="600" height="800" style="max-width: 100%;">
+
 The fluorophore [Су5](https://github.com/NVKristovs/nucl_FRET_analysis) was introduced into the histone H1 sequence at positions 101 and 195 amino acids, with a spacer length of 11 Å.
 Reaction with [Maleimide](https://ru.lumiprobe.com/protocols/protein-maleimide-labeling) was used to label the protein.
 
